@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets</file>
+        <file>qml</file>
+        <file>qml/Config.qml</file>
+        <file>qml/Inventory.qml</file>
+        <file>qml/Login.qml</file>
+        <file>qml/Main.qml</file>
+        <file>qml/Sales.qml</file>
+        <file>assets/felgo-logo.png</file>
+        <file>assets/LogoDigital.png</file>
+        <file>qml/Evidencias.qml</file>
+        <file>qml/Pedidos.qml</file>
+        <file>qml/model/DataModel.qml</file>
+        <file>qml/model/Logic.qml</file>
+        <file>qml/CameraDigital.qml</file>
+        <file>qml/PedidosEntry.qml</file>
+        <file>qml/Pedidos2.qml</file>
+        <file>qml/PuntoVenta.qml</file>
+        <file>qml/AddPuntoVenta.qml</file>
+        <file>qml/SubDis.qml</file>
+        <file>qml/Usuario.qml</file>
+        <file>qml/ValidatedField.qml</file>
+        <file>qml/Distribuidor.qml</file>
+        <file>qml/PedidoUpdate.qml</file>
+    </qresource>
+</RCC>
